@@ -1,7 +1,8 @@
 [package]
-name = "GCD"
+name = "gcd"
 version = "0.1.0"
 edition = "2021"
+authors = ["Steffen Neumann <steffen.neumann@gmx.net>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
