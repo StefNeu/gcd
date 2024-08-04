@@ -1,5 +1,5 @@
 [package]
-name = "gcd"
+name = "gcd_"
 version = "0.1.0"
 edition = "2021"
 authors = ["Steffen Neumann <steffen.neumann@gmx.net>"]
